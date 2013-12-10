@@ -30,8 +30,8 @@
         </scm>
 
         <ciManagement>
-                <system>SakuraServer</system>
-                <url>http://ci.sakura-server.net/</url>
+                <system>ThunderDev-repo</system>
+                <url>http://ci.thundermcz.com/</url>
         </ciManagement>
 
         <repositories>
